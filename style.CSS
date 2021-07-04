@@ -2,7 +2,7 @@ body{
     box-sizing: border-box;
     padding: 0%;
     margin: 0%;
-    background-color: black;
+    background-color: white;
 }
 .web{
     float: left;
@@ -14,52 +14,53 @@ body{
     float: left;
     width: 30%;
     padding: 50px 10px;
-    color: white;
-    margin-left: 80px;
+    color: #1da1f2;
+    margin-top: 80px;
+    margin-left: -4%;
 }
 .web1 h1{
-    margin-top: 150px;
     text-align: center;
     font-size: 65px;
     margin-left: 8px;
  word-spacing: 4px;
- color: white;
+ color: black;
  white-space: inherit;
  font-style: initial;
-
+ margin-left: -4%;
+ margin-top: 12%;
 }
 .web1 h2{
     margin-top: 40px;
     font-size: 30px;
     word-spacing: 4px;
-    color: white;
+    color: black;
     font-family: 'lato', sans-serif;
    margin-bottom: 2px;
+   margin-left: -2%;
 }
-.web2
-{
+.web2{
     background-color: #1da1f2;
-    display: block;
     border: 0;
     color: white;
     text-align: center;
     padding: 13px 100px;
     border-radius: 50px;
     width: 25%;
-    margin-top: 30px;
-    margin-left: 80px;
+    margin-top: 1px;
+    margin-left: -3%;
 }
 .web3{
     padding: 13px 100px;
     border: 0;
-    background-color: black;
+    background-color: white;
     border: 1px solid #1da1f2;
     border-radius: 50px;
     font-weight: bold;
     text-align: center;
     color: #0475ba;
     width: 25%;
-    margin-top: 30px;
+    margin-top: 12px;
+    margin-left: -3%;
 }
 .footer{
     float: left;
